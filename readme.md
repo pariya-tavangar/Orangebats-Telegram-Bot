@@ -2,7 +2,7 @@
 ### This is an Basic Telegram Bot Created With Python For Using Our Exclusive Serves and Mtproto Proxies.
 #### (Project In Progress)
 
-![banner.jpg](https://github.com/Ptavangar/Orangebats-Telegram-Bot/banner.jpg)
+![banner](banner.jpg)
 
 ## Developer Todo 📝
 - [] [Finishing Other Glass Buttons]()
@@ -12,9 +12,13 @@
 - [ ] [Add timer-check message]()
 
 
-## Feature ⚙
-* PrettyTable
-* Automatic cls
+![orangebats-pfp](orangebats-pfp.jpg)
+## Features ⚙
+* Recieving Updated Mtproto Proxy
+* Recieving Updated Configs
+x Joining The Channel Via Link
+x Donating Option
+x Help Instruction
 
 
 ## Countribute 🤝
