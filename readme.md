@@ -5,7 +5,7 @@
 ![banner](banner.jpg)
 
 ## Developer Todo 📝
-- [] [Finishing Other Glass Buttons]()
+- [ ] [Finishing Other Glass Buttons]()
 - [x] [Beautify The Texture]()
 - [ ] [Add Membership Rule]()
 - [x] [Adding status checking]()
