@@ -1,5 +1,5 @@
 import telebot
-bot = telebot.TeleBot('6641249897:AAH6EhnNWWDq2AGTUAokv6eGaC24jN_4CLM')
+bot = telebot.TeleBot('Your Token')
 
 
 key_markup = telebot.types.ReplyKeyboardMarkup(resize_keyboard=True,row_width=2)
