@@ -6,11 +6,11 @@ key_markup = telebot.types.ReplyKeyboardMarkup(resize_keyboard=True,row_width=2)
 key_markup.add("Proxy | پروکسی","Config | کانفیگ","Advertise | تبلیغات","Donate | حمایت","About Us | درباره ما","Help | راهنما","Broadcast Channel | کانال اطلاع رسانی")
 
 
-proxy_btn1= telebot.types.InlineKeyboardButton("ُIRANCEL|ایرانسل",url='https://t.me/proxy?server=82.115.21.113&port=443&secret=7vgBA-pMTrRo5SOZ7MwMG6N3d3cudGVzbGEuY29t')
-proxy_btn2= telebot.types.InlineKeyboardButton("ُHAMRAH-AVAL|همراه اول",url='https://t.me/proxy?server=82.115.21.113&port=443&secret=7vgBA-pMTrRo5SOZ7MwMG6N3d3cudGVzbGEuY29t')
-proxy_btn3= telebot.types.InlineKeyboardButton("ُRYTEL|رایتل",url='https://t.me/proxy?server=82.115.21.113&port=443&secret=7vgBA-pMTrRo5SOZ7MwMG6N3d3cudGVzbGEuY29t')
-proxy_btn4= telebot.types.InlineKeyboardButton("ُSHATEL|شاتل",url='https://t.me/proxy?server=82.115.21.113&port=443&secret=7vgBA-pMTrRo5SOZ7MwMG6N3d3cudGVzbGEuY29t')
-proxy_btn5= telebot.types.InlineKeyboardButton("ADSL|مودم و ثابت",url='https://t.me/proxy?server=82.115.21.113&port=443&secret=7vgBA-pMTrRo5SOZ7MwMG6N3d3cudGVzbGEuY29t')
+proxy_btn1= telebot.types.InlineKeyboardButton("ُIRANCEL|ایرانسل",url='')
+proxy_btn2= telebot.types.InlineKeyboardButton("ُHAMRAH-AVAL|همراه اول",url='')
+proxy_btn3= telebot.types.InlineKeyboardButton("ُRYTEL|رایتل",url='')
+proxy_btn4= telebot.types.InlineKeyboardButton("ُSHATEL|شاتل",url='')
+proxy_btn5= telebot.types.InlineKeyboardButton("ADSL|مودم و ثابت",url='')
 
 
 
