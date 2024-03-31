@@ -6,11 +6,11 @@ key_markup = telebot.types.ReplyKeyboardMarkup(resize_keyboard=True,row_width=2)
 key_markup.add("Proxy | پروکسی","Config | کانفیگ","Advertise | تبلیغات","Donate | حمایت","About Us | درباره ما","Help | راهنما","Broadcast Channel | کانال اطلاع رسانی")
 
 
-proxy_btn1= telebot.types.InlineKeyboardButton("ُIRANCEL|ایرانسل",url='')
-proxy_btn2= telebot.types.InlineKeyboardButton("ُHAMRAH-AVAL|همراه اول",url='')
-proxy_btn3= telebot.types.InlineKeyboardButton("ُRYTEL|رایتل",url='')
-proxy_btn4= telebot.types.InlineKeyboardButton("ُSHATEL|شاتل",url='')
-proxy_btn5= telebot.types.InlineKeyboardButton("ADSL|مودم و ثابت",url='')
+proxy_btn1= telebot.types.InlineKeyboardButton("ُIRANCEL|ایرانسل")
+proxy_btn2= telebot.types.InlineKeyboardButton("ُHAMRAH-AVAL|همراه اول")
+proxy_btn3= telebot.types.InlineKeyboardButton("ُRYTEL|رایتل")
+proxy_btn4= telebot.types.InlineKeyboardButton("ُSHATEL|شاتل")
+proxy_btn5= telebot.types.InlineKeyboardButton("ADSL|مودم و ثابت")
 
 
 
