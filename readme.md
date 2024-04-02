@@ -2,7 +2,7 @@
 ### This is an Basic Telegram Bot Created With Python For Using Our Exclusive Serves and Mtproto Proxies.
 #### (Project In Progress)
 
-![banner](banner.jpg)
+![banner](img/banner.jpg)
 
 ## Developer Todo 📝
 - [ ] [Finishing Other Glass Buttons]()
@@ -12,7 +12,7 @@
 - [ ] [Add timer-check message]()
 
 
-![orangebats-pfp](orangebats-pfp.jpg)
+![orangebats-pfp](img/profile.jpg)
 ## Features ⚙
 * Recieving Updated Mtproto Proxy
 * Recieving Updated Configs
