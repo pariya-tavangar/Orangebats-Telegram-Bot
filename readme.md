@@ -11,7 +11,7 @@
 - [x] [Adding status checking]()
 - [ ] [Add timer-check message]()
 
-<br/>
+
 ## How to Run ▶
 
 1- Set your directory on the project file
@@ -21,7 +21,7 @@ user> cd Desktop/main.py
 ```
 2- Connect your database to the bot
 ```
-user> import mysql.connector
+config> import mysql.connector
 ```
 3- Insert your token bot in config 
 ```
