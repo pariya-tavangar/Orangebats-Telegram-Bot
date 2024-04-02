@@ -12,11 +12,6 @@
 - [ ] [Add timer-check message]()
 
 
-![orangebats-pfp](img/profile.jpg)
-## Features ⚙
-* Recieving Updated Mtproto Proxy
-* Recieving Updated Configs
-* Joining The Channel Via Link
 
 <br><br>
 ## How to Run ▶
@@ -36,17 +31,21 @@ channels = ['@channel','@channel2']
 4- Initiate your database info
 ```
 db_config = {
-
     'host': 'your host',
     'user':'your username',
     'password':'your password',
-    'database':'database name'
-}
+    'database':'database name'}
 ```
 ➡ terminate callbacks if caused possible conflicts in test
 
-<br><br>
 
+![orangebats-pfp](img/profile.jpg)
+## Features ⚙
+* Recieving Updated Mtproto Proxy
+* Recieving Updated Configs
+* Joining The Channel Via Link
+
+<br><br>
 
 ## Countribute 🤝
 Feel free to contribute
