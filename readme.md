@@ -5,9 +5,9 @@
 ![banner](img/banner.jpg)
 
 ## Developer Todo 📝
-- [ ] [Finishing Other Glass Buttons]()
+- [x] [Finishing Other Glass Buttons]()
 - [x] [Beautify The Texture]()
-- [ ] [Add Membership Rule]()
+- [x] [Add Membership Rule]()
 - [x] [Adding status checking]()
 - [ ] [Add timer-check message]()
 
@@ -16,9 +16,36 @@
 ## Features ⚙
 * Recieving Updated Mtproto Proxy
 * Recieving Updated Configs
-x Joining The Channel Via Link
-x Donating Option
-x Help Instruction
+* Joining The Channel Via Link
+
+<br><br>
+## How to Run ▶
+1- Set your directory on the project file
+```
+user> cd Desktop/main.py
+```
+2- Connect your database to the bot
+```
+user> import mysql.connector
+```
+3- Insert your token bot in config 
+```
+TOKEN = 'your token'
+channels = ['@channel','@channel2']
+```
+4- Initiate your database info
+```
+db_config = {
+
+    'host': 'your host',
+    'user':'your username',
+    'password':'your password',
+    'database':'database name'
+}
+```
+➡ terminate callbacks if caused possible conflicts in test
+
+<br><br>
 
 
 ## Countribute 🤝
