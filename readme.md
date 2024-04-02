@@ -14,6 +14,7 @@
 <br>
 ## How to Run ▶
 1- Set your directory on the project file
+
 ```
 user> cd Desktop/main.py
 ```
