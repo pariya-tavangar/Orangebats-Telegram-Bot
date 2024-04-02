@@ -11,9 +11,7 @@
 - [x] [Adding status checking]()
 - [ ] [Add timer-check message]()
 
-
-
-<br><br>
+<br>
 ## How to Run ▶
 1- Set your directory on the project file
 ```
@@ -45,7 +43,7 @@ db_config = {
 * Recieving Updated Configs
 * Joining The Channel Via Link
 
-<br><br>
+<br>
 
 ## Countribute 🤝
 Feel free to contribute
