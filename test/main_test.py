@@ -1,5 +1,6 @@
 #------- IMPORTS ------
 import telebot
+import cofig_test
 
 bot = telebot.TeleBot('Your Token')
 
